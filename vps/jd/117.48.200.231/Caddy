@@ -1,0 +1,4 @@
+117.48.200.231:2015 {
+   browse
+   root /root/dev/go/gopath/src/github.com/xiaosongfu/github-trending
+}
