@@ -2,3 +2,8 @@
    browse
    root /root/dev/go/gopath/src/github.com/xiaosongfu/github-trending
 }
+
+dl.xiaosongfu.com {
+   browse
+   root /root/app/dl
+}
